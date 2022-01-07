@@ -1,5 +1,4 @@
-- 👋 Hi, I’m AFNAN
+- 👋 Hi, I’m Afnan
 - 📝 I’m interested in AI and Research
-- 🍂 I’m currently learning multiple things because I believe learning is what makes us a better human
-- 〽️ How to reach me  https://linktr.ee/afnnaannnn
+- Reach me out @ afnnaannnn@protonmail.com
 
