@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afnan
-- 📝 I’m interested in AI and Research
+- أفنان (pronounced: Afnan)
+- I'm an AI researcher working on machine learning, human-robot interaction and various flutter based project
 - Reach me out @ afnnaannnn@protonmail.com
 
