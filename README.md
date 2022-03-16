@@ -1,4 +1,4 @@
-- Afnan (pronounced: Afnnaann)
-- I'm an AI researcher working on machine learning, human-robot interaction and various flutter based project
+- Afnan (pronounced: af-nan)
+- I'm an AI researcher working on machine learning, human-robot interaction and application/web development 
 - Reach me out @ afnnaannnn@protonmail.com
 
